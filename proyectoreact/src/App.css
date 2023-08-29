@@ -1,0 +1,24 @@
+
+/*HEADER*/
+
+img {
+    height: 2.5rem;
+}
+header {
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    justify-content: space-around;
+}
+nav {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+span {
+    color:blue;
+}
+a {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
