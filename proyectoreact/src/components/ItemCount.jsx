@@ -16,12 +16,15 @@ export const ItemCount = () => {
             setCount((prev) => prev + 1)
         }
     }
+    const onAdd = () => {
+        alert (count)
+    }
     return (
         <div>
             <span onClick={handleDecreaseCount}>-</span>
             <span>{count}</span>
             <span onClick={handleIncreaseCount}>+</span>
-            <button>¡Comprar!</button>
+            <button onClick={onAdd}>¡Comprar!</button>
         </div>
     );
 };
