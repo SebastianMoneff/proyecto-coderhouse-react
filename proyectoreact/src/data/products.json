@@ -1,82 +1,82 @@
 [
     {
         "nombre": "Especiero",
-        "imagen": "",
+        "imagen": "../assets/image",
         "stock": 3,
         "categoria":"Decoracion",
-        "id":"",
+        "id":"1",
+        "precio": 4000
+    },
+    {
+        "nombre": "Especiero completo con frascos",
+        "imagen": "../assets/image",
+        "stock": 3,
+        "categoria":"Decoracion",
+        "id":"2",
+        "precio": 9500
+    },
+    {
+        "nombre": "Caja de te",
+        "imagen": "../assets/image",
+        "stock": 3,
+        "categoria":"Decoracion",
+        "id":"3",
+        "precio": 3000
+    },
+    {
+        "nombre": "",
+        "imagen": "../assets/image",
+        "stock": 3,
+        "categoria":"Decoracion",
+        "id":"4",
         "precio": 4000
     },
     {
         "nombre": "Especiero",
-        "imagen": "",
+        "imagen": "../assets/image",
         "stock": 3,
         "categoria":"Decoracion",
-        "id":"",
+        "id":"5",
         "precio": 4000
     },
     {
         "nombre": "Especiero",
-        "imagen": "",
+        "imagen": "../assets/image",
         "stock": 3,
         "categoria":"Decoracion",
-        "id":"",
+        "id":"6",
         "precio": 4000
     },
     {
         "nombre": "Especiero",
-        "imagen": "",
+        "imagen": "../assets/image",
         "stock": 3,
         "categoria":"Decoracion",
-        "id":"",
+        "id":"7",
         "precio": 4000
     },
     {
         "nombre": "Especiero",
-        "imagen": "",
+        "imagen": "../assets/image",
         "stock": 3,
         "categoria":"Decoracion",
-        "id":"",
+        "id":"8",
         "precio": 4000
     },
     {
         "nombre": "Especiero",
-        "imagen": "",
+        "imagen": "../assets/image",
         "stock": 3,
         "categoria":"Decoracion",
-        "id":"",
+        "id":"9",
         "precio": 4000
     },
     {
         "nombre": "Especiero",
-        "imagen": "",
+        "imagen": "../assets/image",
         "stock": 3,
         "categoria":"Decoracion",
-        "id":"",
-        "precio": 4000
-    },
-    {
-        "nombre": "Especiero",
-        "imagen": "",
-        "stock": 3,
-        "categoria":"Decoracion",
-        "id":"",
-        "precio": 4000
-    },
-    {
-        "nombre": "Especiero",
-        "imagen": "",
-        "stock": 3,
-        "categoria":"Decoracion",
-        "id":"",
-        "precio": 4000
-    },
-    {
-        "nombre": "Especiero",
-        "imagen": "",
-        "stock": 3,
-        "categoria":"Decoracion",
-        "id":"",
+        "id":"10",
         "precio": 4000
     }
 ]
