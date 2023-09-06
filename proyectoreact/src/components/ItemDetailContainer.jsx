@@ -9,7 +9,7 @@ export const ItemDetailContainer = (props) => {
         const promise = new Promise ((resolve, reject) => {
             setTimeout(() => resolve (data[0]), 2000)
         })
-        promise.then ((data) => setProduct(data))
+        promise.then ((data) => setProducts(data))
     }, [])
     if (!product) return <div>Cargando....!</div>
     return (

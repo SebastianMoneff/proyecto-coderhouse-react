@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route} from "react-router-dom"
+import { BrowserRouter, Routes, Route} from "react-router-dom";
 import './App.css';
 import { ItemListContainer } from './components/ItemListContainer';
 import { ItemDetailContainer } from './components/ItemDetailContainer';
@@ -11,8 +11,7 @@ function App() {
       <Routes>
       <Route path= "/" element = {<ItemListContainer greeting= "Hola a todos!"/>} />
       <Route path= "/category/:id" element = {<ItemListContainer greeting= "Hola a todos!"/>} />
-      <Route path= "/item/:id" element = {<ItemDetailContainer greeting= "Hola a todos!"/>} />
-      <ItemDetailContainer/>
+      <Route path= "/item/:id" element = {<ItemDetailContainer/>} />
       </Routes>
     </BrowserRouter>
   )
