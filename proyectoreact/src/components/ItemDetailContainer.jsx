@@ -11,12 +11,13 @@ export const ItemDetailContainer = (props) => {
         })
         promise.then ((data) => setProducts(data))
     }, [])
-    if (!product) return <div>Cargando....!</div>
+    if (!product) return <div>Cargando detalles del producto... Espera un momento!</div>
     return (
         <>
-        <div>Detalle</div>
-        <ItemDetail product = {product}/>
-        <ItemCount/>
+            <div>Detalle</div>
+            <div key = {product.id}>
+                <ItemDetail product = {product}/>
+            </div>
         </>
     )
 };

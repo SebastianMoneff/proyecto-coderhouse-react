@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { ItemCount } from "./ItemCount";
 import data from "../data/products.json"
 import { ItemList } from "./ItemList";
 
@@ -13,11 +12,9 @@ export const ItemListContainer = (props) => {
     }, [])
     return (
         <>
-        <div>{props.greeting}</div>
         <div>
             <ItemList products = {products}/>
         </div>
-        <ItemCount/>
         </>
     )
 };
