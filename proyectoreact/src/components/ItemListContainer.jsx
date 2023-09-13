@@ -35,7 +35,7 @@ export const ItemListContainer = (props) => {
 
   return (
     <>
-      <div>
+      <div className="contenedor__productos">
         <ItemList products={products} />
       </div>
     </>

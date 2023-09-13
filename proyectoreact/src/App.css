@@ -7,7 +7,7 @@ img {
 header {
     display: flex;
     align-items: center;
-    background-color: aqua;
+    background-color:#1A1A40;
     justify-content: space-around;
 }
 nav {
@@ -22,4 +22,9 @@ a {
     padding-right: 20px;
 }
 
-
+.contenedor__productos {
+    background-color: #4C0027;
+}
+.tarjeta__producto {
+    background-color: #082032;
+}
