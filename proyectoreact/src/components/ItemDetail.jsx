@@ -4,6 +4,7 @@ export const ItemDetail = ({product}) => (
     <div>
         <h3>{product.nombre}</h3>
         <p>{product.stock}</p>
+        <p>{product.detalle}</p>
         <p>{product.categoria}</p>
         <span>{product.precio}</span>
     </div>

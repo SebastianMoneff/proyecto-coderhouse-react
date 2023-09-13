@@ -1,81 +1,81 @@
 [
     {
         "nombre": "Jujutsu Kaisen #1",
-        "imagen": "../assets/jj1.jpeg",
+        "imagen": "/assets/jj1.jpeg",
         "stock": 3,
-        "categoria":"manga",
+        "categoria":"Manga",
         "id":"1",
         "detalle":"Tomo n° 1 del manga Jujutsu Kaisen",
         "precio": 9500
     },
     {
         "nombre": "Jujutsu Kaisen #2",
-        "imagen": "../assets/jj1.jpeg",
+        "imagen": "/assets/jj2.jpeg",
         "stock": 3,
-        "categoria":"manga",
+        "categoria":"Manga",
         "id":"2",
         "detalle":"Tomo n° 2 del manga Jujutsu Kaisen",
         "precio": 3000
     },
     {
         "nombre": "Jujutsu Kaisen #3",
-        "imagen": "../assets/jj1.jpeg",
+        "imagen": "/assets/jj3.jpeg",
         "stock": 3,
-        "categoria":"manga",
+        "categoria":"Manga",
         "id":"3",
         "detalle":"Tomo n° 3 del manga Jujutsu Kaisen",
         "precio": 4000
     },
     {
         "nombre": "Avengers #1",
-        "imagen": "../assets/image.png",
+        "imagen": "/assets/avg1.jpeg",
         "stock": 3,
-        "categoria":"avengers",
+        "categoria":"Avengers",
         "id":"4",
         "detalle":"Tomo n° 1 del comic Avengers Los héroes más poderosos de la tierra",
         "precio": 4000
     },
     {
         "nombre": "Avengers #2",
-        "imagen": "../assets/image.png",
+        "imagen": "/assets/avg2.jpeg",
         "stock": 3,
-        "categoria":"avengers",
+        "categoria":"Avengers",
         "id":"5",
         "detalle":"Tomo n° 2 del comic Avengers Los héroes más poderosos de la tierra",
         "precio": 4000
     },
     {
         "nombre": "X-MEN #1",
-        "imagen": "../assets/image.png",
+        "imagen": "/assets/xmen1.jpeg",
         "stock": 3,
-        "categoria":"x-men",
+        "categoria":"X-Men",
         "id":"7",
         "detalle":"Tomo n° 1 del comic X-MEN",
         "precio": 4000
     },
     {
         "nombre": "X-MEN #2",
-        "imagen": "../assets/image.png",
+        "imagen": "/assets/xmen2.jpeg",
         "stock": 3,
-        "categoria":"x-men",
+        "categoria":"X-Men",
         "id":"8",
         "detalle":"Tomo n° 2 del comic X-MEN",
         "precio": 4000
     },
     {
         "nombre": "X-MEN #3",
-        "imagen": "../assets/image.png",
+        "imagen": "/assets/xmen3.jpeg",
         "stock": 3,
-        "categoria":"x-men",
+        "categoria":"X-Men",
         "id":"9",
         "detalle":"Tomo n° 3 del comic X-MEN",
         "precio": 4000
     },
     {
         "nombre": "X-MEN #4",
-        "imagen": "../assets/image.png",
+        "imagen": "/assets/xmen4.jpeg",
         "stock": 3,
-        "categoria":"x-men",
+        "categoria":"X-Men",
         "id":"10",
         "detalle":"Tomo n° 4 del comic X-MEN",
         "precio": 4000

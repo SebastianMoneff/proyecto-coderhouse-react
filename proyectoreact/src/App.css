@@ -2,7 +2,7 @@
 /*HEADER*/
 
 img {
-    height: 2.5rem;
+    height: 45px;
 }
 header {
     display: flex;
@@ -21,4 +21,5 @@ a {
     padding-left: 20px;
     padding-right: 20px;
 }
+
 
