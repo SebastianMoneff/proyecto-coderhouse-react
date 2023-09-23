@@ -10,7 +10,7 @@ export const ItemListContainer = (props) => {
 
   useEffect(() => {
     const promise = new Promise((resolve, reject) => {
-      setTimeout(() => resolve(data), 2000);
+      setTimeout(() => resolve(data), 0);
     });
 
     promise
@@ -31,7 +31,7 @@ export const ItemListContainer = (props) => {
       });
   }, [category]);
 
-  if (isLoading) return <div>Loading....</div>;
+  if (isLoading) return <div></div>;
 
   return (
     <>

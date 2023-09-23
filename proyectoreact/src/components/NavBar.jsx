@@ -2,7 +2,7 @@ import { CartWidget } from "./CartWidget";
 import { Link } from "react-router-dom";
 
 export const NavBar = () => (
-  <header>
+  <header className="NavBar">
     <Link to="/">
       <h1>COMICLOUD</h1>
     </Link>

@@ -1,8 +1,8 @@
 [
     {
         "nombre": "Jujutsu Kaisen #1",
-        "imagen": "/assets/jj1.jpeg",
-        "stock": 3,
+        "imagen": "../assets/jj1.jpeg",
+        "stock": 14,
         "categoria":"Manga",
         "id":"1",
         "detalle":"Tomo n° 1 del manga Jujutsu Kaisen",
@@ -10,8 +10,8 @@
     },
     {
         "nombre": "Jujutsu Kaisen #2",
-        "imagen": "/assets/jj2.jpeg",
-        "stock": 3,
+        "imagen": "../assets/jj2.jpeg",
+        "stock": 11,
         "categoria":"Manga",
         "id":"2",
         "detalle":"Tomo n° 2 del manga Jujutsu Kaisen",
@@ -19,8 +19,8 @@
     },
     {
         "nombre": "Jujutsu Kaisen #3",
-        "imagen": "/assets/jj3.jpeg",
-        "stock": 3,
+        "imagen": "../assets/jj3.jpeg",
+        "stock": 20,
         "categoria":"Manga",
         "id":"3",
         "detalle":"Tomo n° 3 del manga Jujutsu Kaisen",
@@ -28,7 +28,7 @@
     },
     {
         "nombre": "Avengers #1",
-        "imagen": "/assets/avg1.jpeg",
+        "imagen": "../assets/avg1.jpeg",
         "stock": 3,
         "categoria":"Avengers",
         "id":"4",
@@ -37,7 +37,7 @@
     },
     {
         "nombre": "Avengers #2",
-        "imagen": "/assets/avg2.jpeg",
+        "imagen": "./assets/avg2.jpeg",
         "stock": 3,
         "categoria":"Avengers",
         "id":"5",
@@ -46,7 +46,7 @@
     },
     {
         "nombre": "X-MEN #1",
-        "imagen": "/assets/xmen1.jpeg",
+        "imagen": "./assets/xmen1.jpeg",
         "stock": 3,
         "categoria":"X-Men",
         "id":"7",
@@ -55,7 +55,7 @@
     },
     {
         "nombre": "X-MEN #2",
-        "imagen": "/assets/xmen2.jpeg",
+        "imagen": "./assets/xmen2.jpeg",
         "stock": 3,
         "categoria":"X-Men",
         "id":"8",
@@ -64,7 +64,7 @@
     },
     {
         "nombre": "X-MEN #3",
-        "imagen": "/assets/xmen3.jpeg",
+        "imagen": "./assets/xmen3.jpeg",
         "stock": 3,
         "categoria":"X-Men",
         "id":"9",
@@ -73,7 +73,7 @@
     },
     {
         "nombre": "X-MEN #4",
-        "imagen": "/assets/xmen4.jpeg",
+        "imagen": "../assets/xmen4.jpeg",
         "stock": 3,
         "categoria":"X-Men",
         "id":"10",

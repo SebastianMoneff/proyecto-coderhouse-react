@@ -1,15 +1,40 @@
-
-/*HEADER*/
-
-img {
-    height: 45px;
+/*Reseteo de estilos y cambios generales*/
+* {
+    margin: 0;
+    padding: 0;
 }
-header {
+
+/*Estilos principales de la Aplicacion (App)*/
+
+.App {
+    max-width: 1550px;
+    width: 100%;
+    min-height: 100vh;
+    margin: 0 auto;
+    box-shadow: 0 2px 6px red;
+    padding: 15px;
+    box-sizing: border-box;
+}
+/*Barra de navegacion (NavBar)*/
+
+.NavBar {
+    width: 100%;
+    min-height: 100px;
+    max-width: 1550px;
     display: flex;
-    align-items: center;
-    background-color:#1A1A40;
     justify-content: space-around;
+    align-items: center;
+    box-shadow: 0 5px 10px red;
+    box-sizing: border-box;
+    background-color: white;
 }
+.carrito {
+    height: 50px;
+}
+img {
+    height: 300px;
+}
+
 nav {
     padding-left: 300px;
     padding-right: 300px;
@@ -23,8 +48,12 @@ a {
 }
 
 .contenedor__productos {
-    background-color: #4C0027;
+    margin-top: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(22rem, 1fr));
+    box-shadow: 0 5px 10px orangered;
 }
+
 .tarjeta__producto {
-    background-color: #082032;
+
 }
