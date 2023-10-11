@@ -1,10 +1,10 @@
 [
     {
         "nombre": "Jujutsu Kaisen #1",
-        "imagen": "../assets/jj1.jpeg",
+        "imagen": "./assets/jj1.jpeg",
         "stock": 14,
         "categoria":"Manga",
-        "id":"1",
+        "id":"jj1",
         "detalle":"Tomo n° 1 del manga Jujutsu Kaisen",
         "precio": 9500
     },
@@ -13,7 +13,7 @@
         "imagen": "../assets/jj2.jpeg",
         "stock": 11,
         "categoria":"Manga",
-        "id":"2",
+        "id":"jj2",
         "detalle":"Tomo n° 2 del manga Jujutsu Kaisen",
         "precio": 3000
     },
@@ -22,7 +22,7 @@
         "imagen": "../assets/jj3.jpeg",
         "stock": 20,
         "categoria":"Manga",
-        "id":"3",
+        "id":"jj3",
         "detalle":"Tomo n° 3 del manga Jujutsu Kaisen",
         "precio": 4000
     },
@@ -31,7 +31,7 @@
         "imagen": "../assets/avg1.jpeg",
         "stock": 3,
         "categoria":"Avengers",
-        "id":"4",
+        "id":"avg1",
         "detalle":"Tomo n° 1 del comic Avengers Los héroes más poderosos de la tierra",
         "precio": 4000
     },
@@ -40,7 +40,7 @@
         "imagen": "./assets/avg2.jpeg",
         "stock": 3,
         "categoria":"Avengers",
-        "id":"5",
+        "id":"avg2",
         "detalle":"Tomo n° 2 del comic Avengers Los héroes más poderosos de la tierra",
         "precio": 4000
     },
@@ -49,16 +49,16 @@
         "imagen": "./assets/xmen1.jpeg",
         "stock": 3,
         "categoria":"X-Men",
-        "id":"7",
+        "id":"xm1",
         "detalle":"Tomo n° 1 del comic X-MEN",
         "precio": 4000
     },
     {
         "nombre": "X-MEN #2",
-        "imagen": "./assets/xmen2.jpeg",
+        "imagen": "../assets/xmen2.jpeg",
         "stock": 3,
         "categoria":"X-Men",
-        "id":"8",
+        "id":"xm2",
         "detalle":"Tomo n° 2 del comic X-MEN",
         "precio": 4000
     },
@@ -67,7 +67,7 @@
         "imagen": "./assets/xmen3.jpeg",
         "stock": 3,
         "categoria":"X-Men",
-        "id":"9",
+        "id":"xm3",
         "detalle":"Tomo n° 3 del comic X-MEN",
         "precio": 4000
     },
@@ -76,7 +76,7 @@
         "imagen": "../assets/xmen4.jpeg",
         "stock": 3,
         "categoria":"X-Men",
-        "id":"10",
+        "id":"xm4",
         "detalle":"Tomo n° 4 del comic X-MEN",
         "precio": 4000
     }

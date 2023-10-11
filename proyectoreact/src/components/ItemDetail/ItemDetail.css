@@ -1,0 +1,30 @@
+.detail-container {
+    display: flex;
+    padding: 2rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+}
+.detail-image {
+    width: 19.9375rem;
+    height: 14.95313rem;
+}
+.detail-main {
+    display: flex;
+    width: 18.625rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+}
+.purchase-btn{
+    color: aliceblue;
+    display: flex;
+    height: 2.5rem;
+    padding: 0rem 1.875rem;
+    justify-content: space-between;
+    align-items: center;
+    align-self: stretch;
+    border-radius: 0.3125rem;
+    background: #6d72c3; 
+}
