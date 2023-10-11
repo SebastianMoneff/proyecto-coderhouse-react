@@ -39,7 +39,7 @@ export const Cart = () => {
                     Limpiar carrito de compra
                 </button>
                 <Link to="/checkout">
-                    <button className="checkout-btn">Checkout</button>
+                    <button className="checkout-btn">¡Comprar!</button>
                 </Link>
             </div>
         </div>

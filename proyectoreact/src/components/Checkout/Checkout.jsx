@@ -84,7 +84,7 @@ return (
                 />
             </div>
             <div className="form-group">
-                <label htmlFor="phone">Numero de tel.</label>
+                <label htmlFor="phone">Numero de cel.</label>
                 <input
                     type="text"
                     name="phone"
